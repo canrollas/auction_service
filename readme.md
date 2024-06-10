@@ -2,6 +2,7 @@
 ## Description 
 
 - Trays entered event will be handled by the auction service.
+- docker-compose up , docker 
 - We need :
   - Auction_id
   - Auction_ready_time 
